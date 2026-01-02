@@ -1,7 +1,7 @@
 <!--
  * @encode: utf-8
  * @Date: 2026-01-02 17:21:21
- * @LastEditTime: 2026-01-02 17:30:04
+ * @LastEditTime: 2026-01-02 23:18:54
  * @FilePath: /easy-set-zsh-highlighting/source/README.md
 -->
 ## easy-set-zsh-highlighting
@@ -13,3 +13,14 @@
 左边终端为预览
 
 ![演示](example.png)
+
+## 使用
+
+```
+git clone https://github.com/tiandic/easy-set-zsh-highlighting.git
+cd easy-set-zsh-highlighting
+python3 -m http.server
+```
+然后访问 <http://127.0.0.1:8000/mter.html> 即可
+
+<http://127.0.0.1:8000/help.html> 有简单的帮助信息
