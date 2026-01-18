@@ -16,9 +16,12 @@
 
 ## 使用
 
-1. 可以直接使用浏览器打开`mter.html`
+1. 在线使用<https://tiandic.github.io/project/easy-set-zsh-highlighting/mter.html>
 
-2. 或者本地开启`http服务`访问:
+2. 可以直接拉取项目后
+使用浏览器打开`mter.html`
+
+3. 或者本地开启`http服务`访问:
 ```
 git clone https://github.com/tiandic/easy-set-zsh-highlighting.git
 cd easy-set-zsh-highlighting
